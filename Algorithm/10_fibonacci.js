@@ -9,4 +9,4 @@ function fibonacci(n){
     }
 }
 
-fibonacci(8)
+fibonacci(40)
